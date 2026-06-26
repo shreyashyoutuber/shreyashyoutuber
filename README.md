@@ -27,6 +27,6 @@ Shreyash, a 20-year-old B.Tech student, is passionate about innovation, sustaina
 
   ## 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/shreyashmahagaon) 
-
+  [![PhonePe](https://img.shields.io/badge/PhonePe-5F259F?style=for-the-badge&logo=phonepe&logoColor=white)](upi://pay?pa=shreyash888@axl)
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
