@@ -127,7 +127,8 @@ A web-based project focused on **property/home value exploration and related inf
 
 # 👀 Profile Views
 
-[![](https://komarev.com/ghpvc/?username=shreyashyoutuber&icon=0&color=0)](https://visitcount.itsvg.in)
+
+![](https://komarev.com/ghpvc/?username=shreyashyoutuber&label=Profile%20Views&color=0e75b6&style=flat)
 
 ---
 
