@@ -3,7 +3,7 @@ Shreyash, a 20-year-old B.Tech student, is passionate about innovation, sustaina
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/shreyashmahagaon) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/shreyash88) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@nonyoutubervlogs) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Shreyashmahagaon@gmail.com) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)]((https://www.instagram.com/shreyashmahagaon))[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shreyash88)[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@nonyoutubervlogs) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Shreyashmahagaon@gmail.com) 
 
 
 # 💻 Tech Stack:
