@@ -55,7 +55,7 @@ Hi, I'm **Shreyash**, a B.Tech Computer Science student passionate about **softw
 
 | Project | Description | Focus |
 |:--|:--|:--|
-| **[🏠 BharatHomeValue](https://github.com/shreyashyoutuber/BharatHomeValue)** | A web-based platform for exploring property and home value information with a clean, user-friendly experience. | ![Web Dev](https://img.shields.io/badge/Web%20Development-0969DA?style=flat-square) ![UX](https://img.shields.io/badge/User%20Experience-8250DF?style=flat-square) ![Data](https://img.shields.io/badge/Data-1A7F37?style=flat-square) |
+| **[🏠 BharatHomeValue](https://bharathomevalue.vercel.app/)** | A web-based platform for exploring property and home value information with a clean, user-friendly experience. | ![Web Dev](https://img.shields.io/badge/Web%20Development-0969DA?style=flat-square) ![UX](https://img.shields.io/badge/User%20Experience-8250DF?style=flat-square) ![Data](https://img.shields.io/badge/Data-1A7F37?style=flat-square) |
 | **🌱 ZERO TREE Solutions** | An eco-friendly stone-paper and packaging initiative offering sustainable alternatives to traditional paper and plastic packaging. | ![Sustainability](https://img.shields.io/badge/Sustainability-2DA44E?style=flat-square) ![Innovation](https://img.shields.io/badge/Product%20Innovation-BF8700?style=flat-square) ![Entrepreneurship](https://img.shields.io/badge/Entrepreneurship-CF222E?style=flat-square) |
 
 
