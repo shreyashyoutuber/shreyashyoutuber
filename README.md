@@ -9,7 +9,6 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=shreyashyoutuber&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="views"/>
 <img src="https://img.shields.io/github/followers/shreyashyoutuber?style=for-the-badge&logo=github&color=181717" alt="followers"/>
 <img src="https://img.shields.io/badge/AWS-Certified%20Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="aws"/>
 
