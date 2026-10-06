@@ -1,7 +1,7 @@
 <!-- ================= HEADER ================= -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,24&height=240&section=header&text=Shreyash%20Mahagaon&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20Developer%20%E2%80%A2%20Cloud%20%E2%80%A2%20AI%20%E2%80%A2%20Sustainable%20Innovation&descSize=18&descAlignY=58" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,24&height=240&section=header&text=Shreyash&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20Developer%20%E2%80%A2%20Cloud%20%E2%80%A2%20AI%20%E2%80%A2%20Sustainable%20Innovation&descSize=18&descAlignY=58" width="100%"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=00E5FF&center=true&vCenter=true&width=700&lines=B.Tech+CS+Student+%7C+AWS+Certified+%E2%98%81%EF%B8%8F;Building+Full-Stack+Apps+%F0%9F%9A%80;Exploring+Generative+AI+%F0%9F%A4%96;Founder+of+ZERO+TREE+Solutions+%F0%9F%8C%B1" alt="Typing SVG" />
@@ -26,26 +26,16 @@
 
 ## 👨‍💻 About Me
 
-```python
-class Shreyash:
-    def __init__(self):
-        self.role      = "B.Tech Computer Science Student"
-        self.focus     = ["Full-Stack Development", "Cloud (AWS)", "AI & GenAI", "Data Science"]
-        self.building  = ["BharatHomeValue", "ZERO TREE Solutions"]
-        self.learning  = ["DSA", "Python", "Java", "Generative AI"]
-        self.mission   = "Build useful software and sustainable products 🌍"
+Hi, I'm **Shreyash**, a B.Tech Computer Science student passionate about **software development, cloud technologies, AI, and sustainable innovation**.
 
-    def open_to(self):
-        return ["Internships", "Open-source collaboration", "Hackathons", "Cool projects"]
-```
+- 💻 Interested in **Full-Stack Web Development**
+- ☁️ Exploring **AWS & Cloud Computing**
+- 🤖 Learning **AI, Generative AI & Data Science**
+- 🐍 Strengthening my **Python, Java & DSA** skills
+- 🌱 Developing **ZERO TREE Solutions**, an eco-friendly stone-paper and packaging initiative
+- 🚀 Building and experimenting with different software projects
+- 📂 Check out my GitHub repositories, including my project **BharatHomeValue**
 
-<div align="center">
-
-| 🔭 Working on | 🌱 Learning | 💬 Ask me about | ⚡ Fun fact |
-|:---:|:---:|:---:|:---:|
-| BharatHomeValue & ZERO TREE | DSA, AWS, GenAI | Web dev, Cloud, Python | I'm building an eco-friendly stone-paper brand *and* software 😄 |
-
-</div>
 
 ---
 
